@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 import calculator from './assignment-03';
 
 test('Can perform an addition on 2 numbers.', () => {

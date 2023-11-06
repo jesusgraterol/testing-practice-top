@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 import reverseString from './assignment-02';
 
 test('Reverses a given word.', () => {
